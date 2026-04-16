@@ -1,3 +1,4 @@
+/* Подключение обычного начертания шрифта Raleway для основного текста. */
 @font-face {
   font-family: Raleway;
   src:
@@ -7,6 +8,7 @@
   font-display: swap;
 }
 
+/* Подключение жирного начертания шрифта Raleway для заголовков и акцентных элементов. */
 @font-face {
   font-family: Raleway;
   src:
